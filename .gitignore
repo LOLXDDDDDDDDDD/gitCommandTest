@@ -1,0 +1,8 @@
+# Contents o f . g i t i g n o r e
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+build/
