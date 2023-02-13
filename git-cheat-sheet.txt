@@ -4,5 +4,9 @@ git checkout switch to new branch
 git init create .git file that enable eveything
 git reset reset all commit
 hello world
+<<<<<<< HEAD
 commit in master
 
+=======
+git commit on nice
+>>>>>>> nice
