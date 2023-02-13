@@ -4,4 +4,4 @@ git checkout switch to new branch
 git init create .git file that enable eveything
 git reset reset all commit
 hello world
-commit in master branch
+commit in master
