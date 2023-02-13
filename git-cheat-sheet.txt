@@ -3,3 +3,4 @@ git log show all commit history only
 git checkout switch to new branch
 git init create .git file that enable eveything
 git reset reset all commit
+hello world
